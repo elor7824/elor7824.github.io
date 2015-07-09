@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/pokemon_glyphs debs
+dpkg-deb -bZgzip projects/Pokemon_lockglyphs debs

@@ -1,9 +1,8 @@
-Package: com.elor7824.pokemonglyphs
-Name: Pokemon Glyphs
-Depends: com.evilgoldfish.lockglyph
+Package: com.elor7824.pokemonlockglyphs
+Name: Pokemon Lockglyphs
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Lockglyph theme featuring the original starter pokemon
+Description: A lockglyph theme featuring the three original starter pokemon
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
