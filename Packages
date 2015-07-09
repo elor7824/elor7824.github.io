@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Depends: com.evilgoldfish.lockglyph
 Filename: ./debs//com.elor7824.pokemonglyphs_1.0_iphoneos-arm.deb
-Size: 41622
-MD5sum: 777f0d38ed6c99d1dab2aa93656a0f7a
-SHA1: da6fa25737ef1c9ce1397603e5e5281d82d61075
-SHA256: 31aea3a15f2f22b569f2dfd28192e0e1f623d76bc3f0623e332cac14ca3ad61d
+Size: 41626
+MD5sum: aa8bf3f72ba42c2933d8120a08580683
+SHA1: 7bbb7a0cf188248c2e2a93fcab8e4b381c5e88ef
+SHA256: 4504fea868397c3f80e1f9fd451e2a03571eb4ca7f644cc872528fdac6a54a5d
 Section: Themes (Lockglyph)
 Description: Lockglyph theme featuring the original starter pokemon
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
