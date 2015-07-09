@@ -1,0 +1,15 @@
+Package: com.elor7824.pokemonglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.elor7824.pokemonglyphs_1.0_iphoneos-arm.deb
+Size: 41622
+MD5sum: 862982fa42fecc553864bd0363dec30e
+SHA1: 52a4ab249c7e1ea1eae9a41b345c083fe0e7f59d
+SHA256: d9aacd47f0fd17e13ad4e569a413985964939d7a11b64d1c879af30cb3d6d937
+Section: Themes (Lockglyph)
+Description: Lockglyph theme featuring the original starter pokemon
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Name: Pokemon Glyphs
+
