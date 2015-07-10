@@ -1,14 +1,14 @@
-Package: com.elor7824.pokemonlockglyphs
-Version: 1.0.2
+Package: com.elor7824.supremelockglyph
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
-Filename: ./debs//com.elor7824.pokemonlockglyphs_1.0.2_iphoneos-arm.deb
-Size: 119902
-MD5sum: 292ef86d557ee0a6781e231fd4131eea
-SHA1: 2620ff3c3e4abda3eefe7d8a6a9b46ce59954236
-SHA256: 968dcbb80089169de11e5ae8df92706a65d1d92b376ab9bdb941bf2b555c4b88
+Filename: ./debs//com.elor7824.supremelockglyph_1.0_iphoneos-arm.deb
+Size: 34442
+MD5sum: 5e406df2596e80aaadc4af68591deb19
+SHA1: afa26da2197ca464d10455e72f438358a196aaa6
+SHA256: 3a245db0166ec0a3bdeaeb69647c54206970c7efec72d6ddcc11b776346ad209
 Section: Themes (Lockglyph)
-Description: A lockglyph theme featuring the three original starter pokemon
+Description: A lockglyph theme for the Supreme logo, as requested by /u/shortlightskin
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
-Name: Pokemon Lockglyphs
+Name: Supreme Lockglyph
 

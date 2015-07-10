@@ -1,0 +1,8 @@
+Package: com.elor7824.ohiolockglyph
+Name: Ohio State Lockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lockglyph theme for Ohio State University, as requested by /u/_King21Jay
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
