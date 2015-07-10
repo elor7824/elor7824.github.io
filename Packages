@@ -1,12 +1,68 @@
+Package: com.elor7824.adinkralockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Filename: ./debs//com.elor7824.adinkralockglyph_1.0_iphoneos-arm.deb
+Size: 40602
+MD5sum: c3c106c233ef57987f9362a80baff5a6
+SHA1: aa90e3c15c6e36a0def4be853cc5aa746669bdac
+SHA256: fe33e454af9b55b2e0d94bacb13c06d905ccaa698048331659634c91aedc49e6
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for the Adinkra African symbol, as requested by /u/ioskiid
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Name: Adinkra Heart Lockglyph
+
+Package: com.elor7824.ohiolockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Filename: ./debs//com.elor7824.ohiolockglyph_1.0_iphoneos-arm.deb
+Size: 47720
+MD5sum: 587124f184819d20bbc1beb5409fb48d
+SHA1: aa5cc776da92d5dbaf09bb3c90ad0cee10d11e9e
+SHA256: 0918ca3468625fe38959a55295df892e5128efc8461bf5a1e30e066717f53b0f
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for Ohio State University, as requested by /u/_King21Jay
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Name: Ohio State Lockglyph
+
+Package: com.elor7824.pokemonlockglyphs
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Filename: ./debs//com.elor7824.pokemonlockglyphs_1.0.2_iphoneos-arm.deb
+Size: 120418
+MD5sum: 37cccbe949b5feff9f4d98c350d4d4ca
+SHA1: 5c360fa668573d9059c5a94e066b501ba42293b5
+SHA256: 33c3ab1e39730aae9b2cf3655524ba3f64551c6ffdf6df53814dc664248544cb
+Section: Themes (Lockglyph)
+Description: A lockglyph theme featuring the three original starter pokemon
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Name: Pokemon Lockglyphs
+
+Package: com.elor7824.sankofalockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Filename: ./debs//com.elor7824.sankofalockglyph_1.0_iphoneos-arm.deb
+Size: 44802
+MD5sum: 85f91e576a929fbec85812aa8e752de0
+SHA1: 26e386e684637ebe6707a468ad4e5e9c2271b9f4
+SHA256: afbbca34d46f571e6311f69a989c07ed95bd420edd8a392d696e679c7de48595
+Section: Themes (Lockglyph)
+Description: A lockglyph theme for the Sankofa African symbol, as requested by /u/ioskiid
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Name: Sankofa Bird Lockglyph
+
 Package: com.elor7824.supremelockglyph
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Filename: ./debs//com.elor7824.supremelockglyph_1.0_iphoneos-arm.deb
 Size: 34442
-MD5sum: 5e406df2596e80aaadc4af68591deb19
-SHA1: afa26da2197ca464d10455e72f438358a196aaa6
-SHA256: 3a245db0166ec0a3bdeaeb69647c54206970c7efec72d6ddcc11b776346ad209
+MD5sum: 70b622185bc3994e37564ceb87dfb800
+SHA1: c746967557ea553fc8ee3500bcc6d19a03fe16c9
+SHA256: bd35724508e60cda10a3c21db272a97aac9496fc6cf0f07302a258d51e277d9c
 Section: Themes (Lockglyph)
 Description: A lockglyph theme for the Supreme logo, as requested by /u/shortlightskin
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
