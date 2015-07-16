@@ -6,3 +6,4 @@ dpkg-deb -bZgzip projects/Sankofa_Lockglyph debs
 dpkg-deb -bZgzip projects/Supreme_Lockglyph debs
 dpkg-deb -bZgzip projects/Skull_Lockglyph debs
 dpkg-deb -bZgzip projects/SHIELD_Lockglyphs debs
+dpkg-deb -bZgzip projects/Circle_USA_Lockglyph debs

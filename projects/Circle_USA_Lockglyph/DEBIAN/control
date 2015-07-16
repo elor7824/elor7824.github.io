@@ -1,0 +1,8 @@
+Package: com.elor7824.circleusalockglyph
+Name: Circle America Lockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lockglyph theme featuring a cool American flag as a circle
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
