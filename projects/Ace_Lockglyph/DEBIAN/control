@@ -1,0 +1,8 @@
+Package: com.elor7824.aceofspadeslockglyph
+Name: Ace of Spades Lockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lockglyph theme featuring an Ace of Spades, as suggested by /u/Willyb211
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
