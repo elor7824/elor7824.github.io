@@ -1,0 +1,8 @@
+Package: com.elor7824.ltsj6modd
+Name: LT SJ6MODD lockscreen theme
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A very cool LockHTML4 lockscreen theme
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (LockHTML4)

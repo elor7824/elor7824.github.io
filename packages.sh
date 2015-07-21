@@ -14,3 +14,4 @@ dpkg-deb -bZgzip projects/Joker_Lockglyph debs
 dpkg-deb -bZgzip projects/BreakingBad_Lockglyphs debs
 dpkg-deb -bZgzip projects/Pangu_Lockglyph debs
 dpkg-deb -bZgzip projects/Seahawks_Lockglyph debs
+dpkg-deb -bZgzip projects/LTSJ6MODD debs
