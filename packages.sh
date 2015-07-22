@@ -16,3 +16,4 @@ dpkg-deb -bZgzip projects/Pangu_Lockglyph debs
 dpkg-deb -bZgzip projects/Seahawks_Lockglyph debs
 dpkg-deb -bZgzip projects/LTSJ6MODD debs
 dpkg-deb -bZgzip projects/Spartan_Lockglyph debs
+dpkg-deb -bZgzip projects/SouthB_Lockglyph debs
