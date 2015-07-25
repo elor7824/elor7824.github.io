@@ -1,0 +1,8 @@
+Package: com.elor7824.transformerslockglyphs
+Name: Transformers Lockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Two lockglyph themes featuring the Decepticon logo as well as Optimus Prime's head, as requested by /u/NASAcaveman
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
