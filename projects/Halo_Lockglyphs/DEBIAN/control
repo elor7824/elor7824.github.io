@@ -1,0 +1,8 @@
+Package: com.elor7824.halolockglyphs
+Name: Halo Lockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A set of lockglyph themes featuring Master Chief's helmet, energy sword, and the legendary logo, as requested by /u/blindSniper123
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
