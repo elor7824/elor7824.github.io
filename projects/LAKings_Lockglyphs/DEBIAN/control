@@ -1,0 +1,8 @@
+Package: com.elor7824.lakingslockglyphs
+Name: LA Kings Lockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A set of lockglyph themes featuring two logos for the LA Kings, as requested by /u/M32OT
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)

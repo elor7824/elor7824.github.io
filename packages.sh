@@ -20,3 +20,4 @@ dpkg-deb -bZgzip projects/SouthB_Lockglyph debs
 dpkg-deb -bZgzip projects/Hero_Lockglyphs debs
 dpkg-deb -bZgzip projects/Transformers_Lockglyphs debs
 dpkg-deb -bZgzip projects/Halo_Lockglyphs debs
+dpkg-deb -bZgzip projects/LAKings_Lockglyphs debs
