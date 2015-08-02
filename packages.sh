@@ -22,3 +22,4 @@ dpkg-deb -bZgzip projects/Transformers_Lockglyphs debs
 dpkg-deb -bZgzip projects/Halo_Lockglyphs debs
 dpkg-deb -bZgzip projects/LAKings_Lockglyphs debs
 dpkg-deb -bZgzip projects/Chicago_BH_Lockglyphs debs
+dpkg-deb -bZgzip projects/Albrecht_Lockglyph debs
