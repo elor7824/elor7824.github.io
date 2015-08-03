@@ -1,0 +1,60 @@
+<package>
+	<id>com.elor7824.herolockglyphs</id>
+	<name>Superhero Lockglyphs</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.evilgoldfish.lockglyph</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A collection of lockglyph themes that feature multiple superheroes.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>batman.png</image>
+			<description></description>
+			<image>bvs.png</image>
+			<description></description>
+			<image>captainamerica.png</image>
+			<description></description>
+			<image>deadpool.png</image>
+			<description></description>
+			<image>flash.png</image>
+			<description></description>
+			<image>green.png</image>
+			<description></description>
+			<image>hulk.png</image>
+			<description></description>
+			<image>ironman.png</image>
+			<description></description>
+			<image>oldbatman.png</image>
+			<description></description>
+			<image>spider.png</image>
+			<description></description>
+			<image>superman.png</image>
+			<description></description>
+			<image>thor.png</image>
+			<description></description>
+			<image>wolverine.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/elias_or</url>
+		</link>
+		
+		<link>
+			<name>Enjoy my work? Feel free to donate!</name>
+			<url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QER339CJPPVUS&lc=US&item_name=Elias%20Ortiz&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted</url>
+		</link>
+	</links>
+</package>

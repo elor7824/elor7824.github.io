@@ -1,0 +1,36 @@
+<package>
+	<id>com.elor7824.southbrisbanefutsal</id>
+	<name>South Brisbane Lockglyph</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.evilgoldfish.lockglyph</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A lockglyph theme featuring the South Brisbane Futsal logo, as requested by /u/Terrenc3Peterson.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>south.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/elias_or</url>
+		</link>
+		
+		<link>
+			<name>Enjoy my work? Feel free to donate!</name>
+			<url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QER339CJPPVUS&lc=US&item_name=Elias%20Ortiz&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted</url>
+		</link>
+	</links>
+</package>
