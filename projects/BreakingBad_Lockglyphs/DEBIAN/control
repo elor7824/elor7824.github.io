@@ -6,5 +6,5 @@ Description: A set of lockglyph themes for Breaking Bad fans, as suggested by /u
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction: http://elor7824.github.io/depictions/index.html?p=com.elor7824.breakingbadlockglyphs
+Depiction:
 Depends: com.evilgoldfish.lockglyph

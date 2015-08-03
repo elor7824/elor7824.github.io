@@ -6,5 +6,5 @@ Description: A lockglyph theme that features a Molon Labe spartan, as requested 
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction: http://elor7824.github.io/depictions/index.html?p=com.elor7824.spartanlockglyph
+Depiction:
 Depends: com.evilgoldfish.lockglyph

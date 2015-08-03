@@ -6,5 +6,5 @@ Description: A lockglyph theme featuring a cool American flag as a circle, as re
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction: http://elor7824.github.io/depictions/index.html?p=com.elor7824.circleusalockglyph
+Depiction:
 Depends: com.evilgoldfish.lockglyph
