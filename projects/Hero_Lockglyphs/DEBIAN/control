@@ -6,5 +6,5 @@ Description: A collection of lockglyph themes that feature multiple superheroes
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction:
+Depiction: http://elor7824.github.io/depictions/com.elor7824.herolockglyphs/index.html
 Depends: com.evilgoldfish.lockglyph

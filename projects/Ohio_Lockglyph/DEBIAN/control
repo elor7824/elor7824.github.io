@@ -6,5 +6,5 @@ Description: A lockglyph theme for Ohio State University, as requested by /u/_Ki
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction:
+Depiction: http://elor7824.github.io/depictions/com.elor7824.ohiolockglyph/index.html
 Depends: com.evilgoldfish.lockglyph

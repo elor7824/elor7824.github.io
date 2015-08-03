@@ -6,5 +6,5 @@ Description: A set of lockglyph themes featuring two logos for the LA Kings, as 
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction:
+Depiction: http://elor7824.github.io/depictions/com.elor7824.lakingslockglyphs/index.html
 Depends: com.evilgoldfish.lockglyph

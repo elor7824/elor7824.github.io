@@ -6,5 +6,5 @@ Description: A lockglyph theme featuring an Ace of Spades, as suggested by /u/Wi
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
-Depiction:
+Depiction: http://elor7824.github.io/depictions/com.elor7824.aceofspadeslockglyph/index.html
 Depends: com.evilgoldfish.lockglyph
