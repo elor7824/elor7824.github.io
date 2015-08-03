@@ -6,3 +6,5 @@ Description: A lockglyph theme featuring the Pangu logo.
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
+Depiction: http://elor7824.github.io/depictions/index.html?p=com.elor7824.pangulockglyph
+Depends: com.evilgoldfish.lockglyph

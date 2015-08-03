@@ -6,3 +6,5 @@ Description: A set of lockglyph themes featuring Master Chief's helmet, energy s
 Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
 Author: Elias Ortiz <elias.ortiz@colorado.edu>
 Section: Themes (Lockglyph)
+Depiction: http://elor7824.github.io/depictions/index.html?p=com.elor7824.halolockglyphs
+Depends: com.evilgoldfish.lockglyph
