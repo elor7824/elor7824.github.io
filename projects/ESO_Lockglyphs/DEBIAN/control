@@ -1,0 +1,10 @@
+Package: com.elor7824.esolockglyphs
+Name: ESO Lockglyphs
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A set of lockglyph themes for the Elder Scrolls Online fan.
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
+Depiction: http://elor7824.github.io/depictions/com.elor7824.esolockglyphs/index.html
+Depends: com.evilgoldfish.lockglyph

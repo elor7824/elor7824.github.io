@@ -24,3 +24,6 @@ dpkg-deb -bZgzip projects/LAKings_Lockglyphs debs
 dpkg-deb -bZgzip projects/Chicago_BH_Lockglyphs debs
 dpkg-deb -bZgzip projects/Albrecht_Lockglyph debs
 dpkg-deb -bZgzip projects/ASU_Lockglyph debs
+dpkg-deb -bZgzip projects/ESO_Lockglyphs debs
+dpkg-deb -bZgzip projects/ESO_RLogo debs
+dpkg-deb -bZgzip projects/ESO_zeppelin debs
