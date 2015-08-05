@@ -27,3 +27,4 @@ dpkg-deb -bZgzip projects/ASU_Lockglyph debs
 dpkg-deb -bZgzip projects/ESO_Lockglyphs debs
 dpkg-deb -bZgzip projects/ESO_RLogo debs
 dpkg-deb -bZgzip projects/ESO_zeppelin debs
+dpkg-deb -bZgzip projects/WVU_Lockglyph debs

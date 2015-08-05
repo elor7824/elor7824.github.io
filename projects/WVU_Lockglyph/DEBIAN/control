@@ -1,0 +1,10 @@
+Package: com.elor7824.wvulockglyph
+Name: West Virginia University Lockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lockglyph theme featuring the West Virginia University logo, as requested by /u/thisvacuumsucks.
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
+Depiction: http://elor7824.github.io/depictions/com.elor7824.wvulockglyph/index.html
+Depends: com.evilgoldfish.lockglyph
