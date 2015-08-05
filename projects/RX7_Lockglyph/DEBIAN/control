@@ -1,0 +1,10 @@
+Package: com.elor7824.rx7lockglyph
+Name: RX7 Lockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A lockglyph theme featuring a RX7 logo, as requested by /u/dandaman919.
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Lockglyph)
+Depiction: http://elor7824.github.io/depictions/com.elor7824.rx7lockglyph/index.html
+Depends: com.evilgoldfish.lockglyph
