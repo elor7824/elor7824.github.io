@@ -29,3 +29,5 @@ dpkg-deb -bZgzip projects/ESO_RLogo debs
 dpkg-deb -bZgzip projects/ESO_zeppelin debs
 dpkg-deb -bZgzip projects/WVU_Lockglyph debs
 dpkg-deb -bZgzip projects/RX7_Lockglyph debs
+dpkg-deb -bZgzip projects/DB_Lockglyph debs
+dpkg-deb -bZgzip projects/DB_Zeppelin debs

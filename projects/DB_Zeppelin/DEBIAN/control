@@ -1,0 +1,10 @@
+Package: com.elor7824.dbzeppelin
+Name: Dragonball Zeppelin
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Zeppelin logo for the 7 star Dragonball, as requested by /u/xJordyy.
+Maintainer: Elias Ortiz <elias.ortiz@colorado.edu>
+Author: Elias Ortiz <elias.ortiz@colorado.edu>
+Section: Themes (Zeppelin)
+Depiction: http://elor7824.github.io/depictions/com.elor7824.dbzeppelin/index.html
+Depends: com.alexzielenski.zeppelin
